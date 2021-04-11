@@ -1,15 +1,14 @@
 {
   "name": "vey-pages",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Awesome node modules.",
   "keywords": [
-    "vey-pages",
-    "zce"
+    "vey-pages"
   ],
   "bin": "bin/vey-pages.js",
   "repository": "vey/vey-pages",
   "license": "MIT",
-  "author": "bian <bian@mogu.com> (https://www.veyxp.com)",
+  "author": "vey <1594325241@qq.com> (https://www.veyxp.com)",
   "main": "lib/index.js",
   "files": [
     "lib",
